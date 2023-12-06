@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Orb</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Wed, 06 Dec 2023 13:17:19 +0500</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="Orb.dmg" length="1969820" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
